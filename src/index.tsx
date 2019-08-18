@@ -1,5 +1,5 @@
 /**
- * @author Luke Brandon Farrell
+ * @author *
  * @description Text component.
  */
 
